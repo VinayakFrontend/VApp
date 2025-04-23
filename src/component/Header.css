@@ -1,0 +1,23 @@
+.header{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    height:50px;
+}
+
+.logo{
+    font-size:25px ;
+    margin-left: 25px;
+    font-weight:bolder;
+    color:rgb(156, 35, 226);
+    text-shadow: 5px 5px 8px rgb(112, 99, 99);
+}
+
+.profileimg img{
+    border-radius: 50%;
+    padding:4px;
+    margin-top: 2px;
+    margin-right: 25px;
+}

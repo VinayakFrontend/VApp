@@ -1,0 +1,36 @@
+.colorcontainer{
+   
+    height: 360px;
+    width:280px;
+    margin:100px auto;
+    border-radius: 20px;
+    padding:20px;
+    background-color: #2c2c2c;
+    text-align: center;
+    justify-items:center ;
+    position: relative;
+    /* box-shadow: 0px 0px 25px 5px white; */
+  
+    
+}
+
+.colorbox{
+    height:200px;
+    width:90%;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top:20px ;
+    
+}
+#colorlist{
+    text-align: center;
+    width: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+    background-color: transparent;
+    color: white;
+    border:1px solid white;
+    border-radius: 5px;
+}
+
+

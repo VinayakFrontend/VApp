@@ -1,0 +1,45 @@
+.footer{
+    /* background-color:#1e90ff; */
+    background-color:white;
+    padding:5px;
+
+width:100%;
+
+}
+
+
+.iconlist{
+    
+    list-style-type: none;
+    display: flex;
+    justify-content:space-around;
+    padding: 10px;
+    
+
+}
+
+.bell{
+    position: relative;
+    text-align: center;
+   
+}
+.notify{
+  color: white;;
+    font-size: 12px;
+    position: absolute;
+    right:-4px;
+    background-color: red;
+  padding: 2px;
+    border-radius: 50%;
+    border: 0.5px solid white;
+    width:20px;
+    height: 20px;
+    bottom:17px
+ 
+   
+ 
+}
+i{
+    font-size: 30px;
+    color:black;
+}
